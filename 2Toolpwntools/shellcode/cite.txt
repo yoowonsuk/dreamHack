@@ -1,2 +1,5 @@
 shellcode
 http://shell-storm.org/shellcode/index.html
+
+shell_basic Quiz
+https://minnote.net/pwnable/DH-shell-basic/
